@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SPL3CLIENT.dir/main.cpp.o  -o SPL3CLIENT 

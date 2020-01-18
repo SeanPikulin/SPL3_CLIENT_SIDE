@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SPL3.dir/src/echoClient.cpp.o CMakeFiles/SPL3.dir/src/connectionHandler.cpp.o CMakeFiles/SPL3.dir/src/IOThread.cpp.o CMakeFiles/SPL3.dir/src/BookClub.cpp.o CMakeFiles/SPL3.dir/src/ServerThread.cpp.o CMakeFiles/SPL3.dir/src/Frame.cpp.o  -o SPL3 -lboost_system -pthread 
